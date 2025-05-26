@@ -1,0 +1,26 @@
+# Node.js (frontend)
+**/node_modules/
+**/dist/
+**/.vite/
+
+# .NET (backend)
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# VSCode settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
